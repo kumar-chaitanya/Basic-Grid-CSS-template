@@ -259,3 +259,15 @@ footer{
 	}
 
 }
+
+@media only screen and (max-width: 420px){
+	.info p{
+		font-size: 0.6rem;
+	}
+
+	.info h2{
+		font-size: 0.8rem;
+		font-weight: bold;
+		text-transform: capitalize;
+	}
+}
